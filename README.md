@@ -67,9 +67,8 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 - 1 PCA-Based Anomaly Detection
 - 2 Time Series Anomaly Detection
 1. Regression
-
-  1. Bayesian Linear Regression
-  1. Boosted Decision Tree Regression
+    1. Bayesian Linear Regression
+    1. Boosted Decision Tree Regression
   Decision Forest Regression
   Fast Forest Quantile Regression
   Linear Regression
