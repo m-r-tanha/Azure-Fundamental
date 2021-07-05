@@ -63,7 +63,7 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 - Clustering
   1. K-Means Clustering
 - Anomaly Detection
-- One-class support vector machine
+      1. One-class support vector machine
       1. PCA-Based Anomaly Detection
       1. Time Series Anomaly Detection
 1. Regression
@@ -77,38 +77,36 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
     1. Poisson Regression
 
 - Two-Class Classification
+    1. Two-Class Averaged Perceptron
+    1. Two-Class Bayes Point Machine
+    1. Two-Class Boosted Decision Tree
+    1. Two-Class Decision Forest
+    1. Two-Class Decision Jungle
+    1. Two-Class Locally-Deep Support Vector Machine
+    1. Two-Class Logistic Regression
+    1. Two-Class Neural Network
+    1. Two-Class Support Vector Machine
 
-Two-Class Averaged Perceptron
-Two-Class Bayes Point Machine
-Two-Class Boosted Decision Tree
-Two-Class Decision Forest
-Two-Class Decision Jungle
-Two-Class Locally-Deep Support Vector Machine
-Two-Class Logistic Regression
-Two-Class Neural Network
-Two-Class Support Vector Machine
-Multi-Class Classification
+- Multi-Class Classification
+    1. Multiclass Decision Forest
+    1. Multiclass Decision Jungle
+    1. Multiclass Logistic Regression
+    1. Multiclass Neural Network
+    1. One-vs-All Multiclass
+-  Computer Vision
+    1. OpenCV Library
 
-Multiclass Decision Forest
-Multiclass Decision Jungle
-Multiclass Logistic Regression
-Multiclass Neural Network
-One-vs-All Multiclass
-Computer Vision
+- Text Analytics
 
-OpenCV Library
+    1. Feature Hashing
+    1. Named Entity Recognition
+    1. Vowpal Wabbit
+- Statistical Functions
 
-Text Analytics
-
-Feature Hashing
-Named Entity Recognition
-Vowpal Wabbit
-Statistical Functions
-
-Descriptive Statistics
-Hypothesis Testing T-Test
-Linear Correlation
-Probability Function Evaluation
+    1. Descriptive Statistics
+    1. Hypothesis Testing T-Test
+    1. Linear Correlation
+    1. Probability Function Evaluation
 
 ### Compute Instance
 - Use a **compute instance** as your fully configured and managed development environment in the cloud for machine learning. They can also be used as a compute target for training and inferencing for development and testing purposes.
