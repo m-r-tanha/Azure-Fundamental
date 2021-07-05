@@ -1,4 +1,25 @@
 # Azure-Fundamental
+### Azure Machine Learning Studio
+
+Azure Machine Learning Studio is built considering the cloud-first mobile-first world.
+
+- This tool is fully managed and we don’t have a need to install any external software, or manage any hardware, as there is one portal to view and update everything.
+
+It’s very simple to use. Simple drag, drop and connect interfaces are there to use for data science features. We don’t need any programming for common tasks.
+
+- 33+ classic and mostly used data analysis algorithms are already implemented on this tool. We don’t need to implement new algorithm for basic use. But, it supports R and Python for extensibility usage.
+
+- We can create service and integrate our data analysis tool with our existing web, mobile, or desktop application very easily. We can monetize our designed data analysis model in machine learning marketplace as well.
+
+- We can collaborate work with anyone, anywhere via Azure workspace.
+
+- There is visual composition with end2end support for data science workflow.
+
+- There are built in immutable libraries of models. So, developers just need to search, discover, and reuse them according to their need.
+
+- As we don’t need to do implement our own code, we can test our dataset with different algorithms and models in few minutes.
+
+
 ### Compute Instance
 - Use a **compute instance** as your fully configured and managed development environment in the cloud for machine learning. They can also be used as a compute target for training and inferencing for development and testing purposes.
 - Azure Machine Learning compute instance enables you to author, train, and deploy models in a fully integrated notebook experience in your workspace.
