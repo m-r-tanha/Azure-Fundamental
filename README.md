@@ -19,6 +19,96 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 
 - As we don’t need to do implement our own code, we can test our dataset with different algorithms and models in few minutes.
 
+## Azure Machine Learning Studio supports different types of data format. It supports,
+
+- ARFF
+- CSV
+- TSV
+- Excel
+- ZIP as data format.
+## We can use different data sources in Azure ML Studio. Some of the supported data sources are,
+
+- Azure Blob Storage
+- Azure SQL DB
+- Azure SQL DW
+- Azure Table
+- Hadoop Hive Query
+- OData Feed
+- Web URL(HTTP)
+- Desktop Direct Upload etc.
+## We can use different types of data preprocessing methods to explore and process our collected data. Some of them are,
+
+- Clean Missing Data
+- Clip Outliers
+- Edit Metadata
+- Different Filters
+- Feature Selection
+- Normalization of Data
+- Partition
+- Quantization etc.
+## We can use different methods of data visualization in Azure Machine Learning Studio. These data visualization models are already implemented. We just need to integrate in our system and use them. Some of them are, 
+
+- Box Plots
+- Histograms
+- Bar Charts
+- Scatterplots
+- Python Plotting Libraries
+- ROC Graph
+- Decision Tree
+- Confusion Matrix
+- Implemented algorithms
+
+## On 8 major categories, 33+ classic and mostly used machine learning algorithms are already implemented in Azure Machine Learning Studio. Major categories and algorithms are,
+
+- Clustering
+- 1 K-Means Clustering
+- Anomaly Detection
+- One-class support vector machine
+- 1 PCA-Based Anomaly Detection
+- 2 Time Series Anomaly Detection
+- Regression
+
+Bayesian Linear Regression
+Boosted Decision Tree Regression
+Decision Forest Regression
+Fast Forest Quantile Regression
+Linear Regression
+Neural Network Regression
+Ordinal Regression
+Poisson Regression
+Two-Class Classification
+
+Two-Class Averaged Perceptron
+Two-Class Bayes Point Machine
+Two-Class Boosted Decision Tree
+Two-Class Decision Forest
+Two-Class Decision Jungle
+Two-Class Locally-Deep Support Vector Machine
+Two-Class Logistic Regression
+Two-Class Neural Network
+Two-Class Support Vector Machine
+Multi-Class Classification
+
+Multiclass Decision Forest
+Multiclass Decision Jungle
+Multiclass Logistic Regression
+Multiclass Neural Network
+One-vs-All Multiclass
+Computer Vision
+
+OpenCV Library
+
+Text Analytics
+
+Feature Hashing
+Named Entity Recognition
+Vowpal Wabbit
+Statistical Functions
+
+Descriptive Statistics
+Hypothesis Testing T-Test
+Linear Correlation
+Probability Function Evaluation
 
 ### Compute Instance
 - Use a **compute instance** as your fully configured and managed development environment in the cloud for machine learning. They can also be used as a compute target for training and inferencing for development and testing purposes.
