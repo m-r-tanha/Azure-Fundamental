@@ -63,9 +63,9 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 - Clustering
   1. K-Means Clustering
 - Anomaly Detection
-      1. One-class support vector machine
-      1. PCA-Based Anomaly Detection
-      1. Time Series Anomaly Detection
+    1. One-class support vector machine
+    1. PCA-Based Anomaly Detection
+    1. Time Series Anomaly Detection
 1. Regression
     1. Bayesian Linear Regression
     1. Boosted Decision Tree Regression
