@@ -61,21 +61,22 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 ## On 8 major categories, 33+ classic and mostly used machine learning algorithms are already implemented in Azure Machine Learning Studio. Major categories and algorithms are,
 
 - Clustering
-- 1 K-Means Clustering
+  1. K-Means Clustering
 - Anomaly Detection
 - One-class support vector machine
-- 1 PCA-Based Anomaly Detection
-- 2 Time Series Anomaly Detection
+      1. PCA-Based Anomaly Detection
+      1. Time Series Anomaly Detection
 1. Regression
     1. Bayesian Linear Regression
     1. Boosted Decision Tree Regression
-  Decision Forest Regression
-  Fast Forest Quantile Regression
-  Linear Regression
-  Neural Network Regression
-  Ordinal Regression
-  Poisson Regression
-Two-Class Classification
+    1. Decision Forest Regression
+    1. Fast Forest Quantile Regression
+    1. Linear Regression
+    1. Neural Network Regression
+    1. Ordinal Regression
+    1. Poisson Regression
+
+- Two-Class Classification
 
 Two-Class Averaged Perceptron
 Two-Class Bayes Point Machine
