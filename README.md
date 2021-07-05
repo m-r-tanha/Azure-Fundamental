@@ -66,16 +66,16 @@ It’s very simple to use. Simple drag, drop and connect interfaces are there to
 - One-class support vector machine
 - 1 PCA-Based Anomaly Detection
 - 2 Time Series Anomaly Detection
-- Regression
+1. Regression
 
-Bayesian Linear Regression
-Boosted Decision Tree Regression
-Decision Forest Regression
-Fast Forest Quantile Regression
-Linear Regression
-Neural Network Regression
-Ordinal Regression
-Poisson Regression
+  1. Bayesian Linear Regression
+  1. Boosted Decision Tree Regression
+  Decision Forest Regression
+  Fast Forest Quantile Regression
+  Linear Regression
+  Neural Network Regression
+  Ordinal Regression
+  Poisson Regression
 Two-Class Classification
 
 Two-Class Averaged Perceptron
