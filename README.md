@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/m-r-tanha1977/2d24b762-49ac-4f99-9e77-41eab5cc04a6/a2154413-05cd-484d-9d4d-6b3755b658fe/_apis/work/boardbadge/19c6b211-088b-4d84-8b32-d12ce917e017)](https://dev.azure.com/m-r-tanha1977/2d24b762-49ac-4f99-9e77-41eab5cc04a6/_boards/board/t/a2154413-05cd-484d-9d4d-6b3755b658fe/Microsoft.RequirementCategory)
 # Azure-Fundamental
 ### Azure Machine Learning Studio
 
